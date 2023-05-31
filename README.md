@@ -1,6 +1,6 @@
 # Django GraphQL CRUD App
 
-This project is a Django-based application that implements a CRUD (Create, Read, Update, Delete) functionality for managing todos using GraphQL. It provides an interface for creating, retrieving, updating, and deleting todo items.
+This project is a Django-based application that implements a CRUD (Create, Read, Update, Delete) functionality for managing todos using GraphQL. It provides an interface for creating, retrieving, updating, and deleting todo items.🚀📝
 
 ## Prerequisites
 
